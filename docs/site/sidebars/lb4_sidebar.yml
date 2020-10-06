@@ -538,7 +538,7 @@ children:
         url: Decorators_authenticate.html
         output: 'web, pdf'
 
-      - title: 'Authorization Decorator'
+      - title: 'Authorization Decorators'
         url: Decorators_authorize.html
         output: 'web, pdf'
 

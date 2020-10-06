@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 'Authorization Decorator'
+title: 'Authorization Decorators'
 keywords:
   LoopBack 4.0, LoopBack, Node.js, TypeScript, OpenAPI, Decorator, Authorization
 sidebar: lb4_sidebar
